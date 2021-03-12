@@ -1,4 +1,4 @@
-## Hi there 👋 Alexy here!
+# Hi there 👋 Alexy here!
 
 ### I'm a Cloud Enthusiast, DevOps Beginner and a [Youtuber](https://www.youtube.com/TechinoTech4u)
 
