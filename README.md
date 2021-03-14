@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;   
 
-<br />
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Alexy's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexyPulivelil&show_icons=true&theme=tokyonight)
 
@@ -34,11 +34,18 @@
 <img align="left" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img align="left" alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 <img align="left" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img align="left" alt="MPython" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img align="left" alt="MPython" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />__
+
+## My Github Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlexyPulivelil)](https://github.com/AlexyPulivelil/github-profile-trophy)__ 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <br />
 
+   
 ## Techino Tech4u on 
+
 <a href="https://www.youtube.com/TechinoTech4u">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>&nbsp;&nbsp;
