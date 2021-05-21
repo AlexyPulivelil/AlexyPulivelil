@@ -2,6 +2,7 @@
 
 ### I'm a Cloud Enthusiast, DevOps Beginner and a [Youtuber](https://www.youtube.com/TechinoTech4u)
 
+![counter](https://enyfjhu0otadnru.m.pipedream.net)
 
 - 🔭 I’m currently exploring AWS and GCP
 - 👯 I’m looking to collaborate on Cloud Projects
