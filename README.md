@@ -1,3 +1,4 @@
+
 # Hi there 👋 Alexy here!
 
 ### I'm a Cloud Enthusiast, DevOps Beginner and a [Youtuber](https://www.youtube.com/TechinoTech4u)
@@ -37,6 +38,7 @@
 <img align="left" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="left" alt="MPython" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />__
 
+
 ## My Github Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=AlexyPulivelil)](https://github.com/AlexyPulivelil/github-profile-trophy)__ 
 
@@ -44,7 +46,9 @@
 
 <br />
 
-   
+  
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexyPulivelil)
+  
 ## Techino Tech4u on 
 
 <a href="https://www.youtube.com/TechinoTech4u">
